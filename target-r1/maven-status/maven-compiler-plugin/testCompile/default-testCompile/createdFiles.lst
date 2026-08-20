@@ -1,5 +1,0 @@
-com/example/jwttool/core/JsonSupportTest.class
-com/example/jwttool/core/AlgorithmTest.class
-com/example/jwttool/io/SecretResolverTest.class
-com/example/jwttool/core/HmacSignerTest.class
-com/example/jwttool/core/Base64UrlTest.class
